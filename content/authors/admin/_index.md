@@ -1,13 +1,13 @@
 ---
 authors:
 - admin
-bio: My research interests are...
-  matter.
+bio: 
+  
 education:
   courses:
   - course: International Baccalaureate Diploma Program
     institution: Liceo de Cariari 
-    year: 2014
+    year: 2015
   - course: Lic. Industrial Production Engineering 
     institution: Costa Rica Institute of Techonoly 
     year: 2020 
@@ -24,7 +24,7 @@ role: Visiting Scholar
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: '/contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JurguenAndre

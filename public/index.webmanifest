@@ -2,8 +2,8 @@
   "name": "Jurguen Bermudez",
   "short_name": "Jurguen Bermudez",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#F1C40F",
+  "background_color": "#F1C40F",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",
