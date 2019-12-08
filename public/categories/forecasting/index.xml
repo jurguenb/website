@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Jurguen Bermudez</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>Forecasting | Jurguen Bermudez</title>
+    <link>/categories/forecasting/</link>
+      <atom:link href="/categories/forecasting/index.xml" rel="self" type="application/rss+xml" />
+    <description>Forecasting</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jurguen Bermudez, 2019</copyright><lastBuildDate>Thu, 05 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Posts</title>
-      <link>/post/</link>
+      <title>Forecasting</title>
+      <link>/categories/forecasting/</link>
     </image>
     
     <item>
