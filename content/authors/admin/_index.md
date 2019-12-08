@@ -9,7 +9,7 @@ education:
     institution: Liceo de Cariari 
     year: 2015
   - course: Lic. Industrial Production Engineering 
-    institution: Costa Rica Institute of Techonoly 
+    institution: Costa Rica Institute of Technology 
     year: 2020 
 
 email: ""
@@ -40,4 +40,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a costa rican engineer student. 
+I'm a costa rican engineer student. This site will be hosting some academic opinions about data science, business analytics, and personal experiences of my journey in life. 
+
+My mother tongue is Spanish, so this is also an opportunity to practice my English writing skills. 
