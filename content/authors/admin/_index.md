@@ -40,6 +40,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a costa rican engineer. This site will be hosting some academic opinions about data science, business analytics, and personal experiences of my journey in life. 
+I am a costa rican engineer. This site will be hosting some academic opinions about data science, business analytics, and personal experiences of my journey in life. 
 
 My mother tongue is Spanish, so this is also an opportunity to practice my English writing skills. 
