@@ -10,7 +10,7 @@ education:
     year: 2015
   - course: Lic. Industrial Production Engineering 
     institution: Costa Rica Institute of Technology 
-    year: 2020 
+    year: 2019 
 
 email: ""
 interests:
