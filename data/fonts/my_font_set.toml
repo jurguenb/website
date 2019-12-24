@@ -2,11 +2,11 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Abel|Crimson+Text|Noto+Sans"
+google_fonts = "Titillium+Web|Crimson+Text|Noto+Sans"
 
 # Font families
-heading_font = "Noto Sans TC"
-body_font = "Crimson Text"
-nav_font = "Noto Sans TC"
-mono_font = "Crimson Text"
+heading_font = "Titillium Web"
+body_font = "Titillium Web"
+nav_font = "Titillium Web"       
+mono_font = "Titillium Web"
 
