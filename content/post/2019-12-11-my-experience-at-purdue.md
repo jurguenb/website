@@ -40,9 +40,9 @@ All of them are PhD students from different countries and backgrounds, but math 
 
 ## Home 
 
-One of the these days I was watching the second season of  [Abtract](https://www.netflix.com/title/80057883) on Netflix. In the second episode, Neri Oxman says that the realization of how much we love our home comes when we are far away from it. That is so true because this time has helped to appreciate even more the magic of Costa Rica.But, missing home can be hard too. 
+One of the these days I was watching the second season of  [Abtract](https://www.netflix.com/title/80057883) on Netflix. In the second episode, Neri Oxman says that the realization of how much we love our home comes when we are far away from it. That is so true because this time has helped me to appreciate even more the magic of Costa Rica. But, missing home can be hard too. 
 
-The good thing is that there always be people that will you show us hospitality and kindness and that is when "home" is wherever we feel appreciation and joy. It is fair to say that I met people who made feel like home. Gracias Ticos Lafayattenses and thank you to all the persons around the world that gave so much happiness during this journey. 
+The good thing is that there always be people that will you show us hospitality and kindness and that is when "home" is wherever we feel appreciation and joy. It is fair to say that I met people who made feel like home. Gracias Ticos Lafayattenses and thank you to all the persons around the world that gave me so much happiness during this journey. 
 
 
 
