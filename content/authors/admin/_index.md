@@ -14,13 +14,14 @@ education:
 
 email: ""
 interests:
+- Data Science 
 - Forecasting 
 - Business Analytics 
 name: Jurguen Bermudez Mora 
 organizations:
-- name: Purdue University 
+- name: ""
   url: ""
-role: Visiting Scholar 
+role: ""
 social:
 - icon: envelope
   icon_pack: fas

@@ -1,0 +1,26 @@
+---
+draft: true
+title: 'Exploring Police Statistics '
+author: Jurguen Bermudez
+date: '2020-01-25'
+slug: exploring-police-statistics
+categories:
+  - Exploratory Data Analysis
+tags: [R]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-01-25T12:31:25-06:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+```{r}
+
+```
+
