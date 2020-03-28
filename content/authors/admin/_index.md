@@ -15,8 +15,8 @@ education:
 email: ""
 interests:
 - Data Science 
-- Forecasting 
-- Business Analytics 
+- Data Governance 
+- Advanced Analytics
 name: Jurguen Bermudez Mora 
 organizations:
 - name: ""
@@ -41,6 +41,9 @@ user_groups:
 - Visitors
 ---
 
-I am a costa rican engineer. This site will be hosting some academic opinions about data science, business analytics, and personal experiences of my journey in life. 
+I am a costa rican engineer; now working as data specialist. 
+Also, I am part of a growing data science community in Costa Rica; if you want to know more, go to [Grupo DABIA](https://www.grupodabia.com/). 
 
-My mother tongue is Spanish, so this is also an opportunity to practice my English writing skills. 
+This site will be hosting ideas, projects and other elements regarding my academic-professional interests, and my journey in life. 
+
+
