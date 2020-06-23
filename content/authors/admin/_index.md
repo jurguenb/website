@@ -41,7 +41,7 @@ user_groups:
 - Visitors
 ---
 
-I am a costa rican engineer; now working as data specialist. 
+I am a costa rican engineer; now working in data governance in the private sector. 
 Also, I am part of a growing data science community in Costa Rica; if you want to know more, go to [Grupo DABIA](https://www.grupodabia.com/). 
 
 This site will be hosting ideas, projects and other elements regarding my academic-professional interests, and my journey in life. 
