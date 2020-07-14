@@ -1,5 +1,5 @@
 ---
-title: '¿Cuántos tipos de gris existen? '
+title: '¿Cuántos tipos de gris existen?'
 author: Jurguen Bermudez
 date: '2020-07-06'
 slug: cuántos-tipos-de-gris-existen
