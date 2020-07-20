@@ -1,0 +1,50 @@
+---
+draft: true
+title: 'Evolución cantonal de los casos de Covid-19 en CR '
+author: Jurguen Bermudez
+date: '2020-07-13'
+slug: evolución-cantonal-de-los-casos-de-covid-19-en-cr
+categories:
+  - data_visualization
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-07-13T18:52:30-06:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+# Dependencias 
+
+
+```{r}
+if(!require("pacman")) install.packages("pacman")
+p_load("dplyr")
+p_load("readr")
+p_load("here")
+p_load("tidyr")
+p_load("lubridate")
+```
+
+
+# Cargando datos 
+
+```{r}
+datos <- read_csv(here("content/post/2020-07-13_covid_cantones/07_13_CSV_POSITIVOS.csv"))
+```
+
+```{r}
+datos_p <- datos[,-c(1,3)] %>%
+  pivot_longer(-c(provincia, canton), 
+               names_to = "fecha", 
+               values_to = "casos")
+parse_date(datos_p$fecha, format = c("%m/%d/%Y")) %>% View()
+
+```
+
