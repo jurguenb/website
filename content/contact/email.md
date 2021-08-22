@@ -12,4 +12,4 @@ columns = "1"
 
 +++
 
-**E-mail:** jurguenb@gmail.com 
+**E-mail:** jurguenb[at]gmail.com 
