@@ -1,0 +1,28 @@
+---
+title: "Reading list"
+author: "Jurguen Bermudez Mora"
+date: "12/7/2020"
+output: html_document
+---
+
+```{r echo = FALSE, warning=FALSE, message=FALSE}
+library(dplyr)
+library(readxl)
+library(here)
+library(DT)
+library(kableExtra)
+library(widgetframe)
+```
+
+```{r echo = FALSE, warning=FALSE, message=FALSE }
+reading_list <- read_excel(here("content", "reading_list","reading_list.xlsx"))
+```
+
+
+
+```{r echo = FALSE}
+list <- reading_list %>% DT::kable(reading_list)
+
+widgetframe::frameWidget(list)
+```
+
