@@ -28,11 +28,11 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
-  orgLocal = "Anywhere"
+  orgName = "Jurguen Bermudez"
+  #orgLocal = "Anywhere"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  favicon = "/img/tortuga_16x16.png"
+  logo = "/img/tortuga.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -43,12 +43,12 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = "JurguenAndre"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "sky"
+  theme = "grayscale"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -61,8 +61,8 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "Commissioner"
-  customheadingFontFamily = "Fraunces"
+  customtextFontFamily = ""
+  customheadingFontFamily = ""
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
@@ -88,32 +88,19 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
-  [[params.social]]
-      icon      = "facebook-square" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
-  [[params.social]]
-      icon      = "instagram" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.instagram.com/explore/tags/apero/"
+      url       = "https://github.com/jurguenb"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
+      url       = "https://twitter.com/JurguenAndre"
   [[params.social]]
-      icon      = "impactstory" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://impactstory.org/u/0000-0002-8082-1890"
+      icon      = "linkedin" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.linkedin.com/in/jurguen-bermudez-56442776/"
   [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-8082-1890"
-  [[params.social]]
-      icon      = "rss" # icon name without the 'fa-'
+      icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fas"
-      url       = "/blog/index.xml"
-
+      url       = "mailto:jurguenb@gmail.com"
 [taxonomies]
   category = "categories"
   series = "series"
@@ -121,53 +108,53 @@ enableEmoji = true
 
 [menu]
   # Configure header 
+  #[[menu.header]]
+   # name = "About"
+    #title = "About Blogophonic"
+    #url = "/about/"
+    #weight = 1
   [[menu.header]]
-    name = "About"
-    title = "About Blogophonic"
-    url = "/about/"
-    weight = 1
-  [[menu.header]]
-    name = "Blog"
+    name = "Things I think"
     title = "Blog"
     url = "/blog/"
     weight = 2
-  [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
-    weight = 3
-  [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
-    weight = 4
-  [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
-    weight = 5
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 6
+  #[[menu.header]]
+   # name = "Projects"
+  #  title = "Project Portfolio"
+   # url = "/project/"
+  #  weight = 3
+  #[[menu.header]]
+   # name = "Talks"
+    #title = "Talks"
+    #url = "/talk/"
+    #weight = 4
+  #[[menu.header]]
+   # name = "A collection"
+    #title = "A collection"
+    #url = "/collection/"
+    #weight = 5
+  #[[menu.header]]
+   # name = "Elements"
+    #title = "Element Page"
+    #url = "/elements/"
+    #weight = 6
     
   # Configure footer  
-  [[menu.footer]]
-    name = "License"
-    title = "License"
-    url = "/license/"
-    weight = 1
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
-  [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
-    weight = 3
+  #[[menu.footer]]
+   # name = "License"
+    #title = "License"
+    #url = "/license/"
+    #weight = 1
+  #[[menu.footer]]
+   # name = "Contact"
+    #title = "Contact form"
+    #url = "/contact/"
+    #weight = 1
+  #[[menu.footer]]
+   # name = "Contributors"
+    #title = "Contributors"
+    #url = "/contributors/"
+    #weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
