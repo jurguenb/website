@@ -1,9 +1,9 @@
 ---
-title: A Blog That Works
+title: Jurguen Bermudez
 description: |
   This is a fully featured blog that supports categories, 
   tags, series, and pagination.
-author: "The R Markdown Team @RStudio"
+author: "Jurguen Bermudez"
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
 show_author_byline: true
@@ -23,10 +23,10 @@ sidebar:
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "Jurguen"
+  author: "Jurguen Bermudez"
   show_author_byline: true
   show_post_date: true
-  show_comments: true # see site config to choose Disqus or Utterances
+  show_comments: false # see site config to choose Disqus or Utterances
   # for single-sidebar layout
   sidebar:
     text_link_label: View recent posts
