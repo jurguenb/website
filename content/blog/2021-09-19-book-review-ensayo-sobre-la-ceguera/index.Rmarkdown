@@ -2,7 +2,7 @@
 title: 'Comentarios: Ensayo sobre la Ceguera'
 author: Jurguen Bermudez
 date: '2021-09-19'
-slug: []
+slug: comentarios-ensaryo-sobre-la-ceguera
 categories:
   - book_review
 tags:
