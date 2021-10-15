@@ -114,10 +114,15 @@ enableEmoji = true
     #url = "/about/"
     #weight = 1
   [[menu.header]]
-    name = "Things I think"
+    name = "Cosas que pienso"
     title = "Blog"
     url = "/blog/"
     weight = 2
+  [[menu.header]]
+    name = "Cosas de datos"
+    title = "Cosas_de_datos"
+    url = "/cosas_de_datos/"
+    weight = 3
   #[[menu.header]]
    # name = "Projects"
   #  title = "Project Portfolio"

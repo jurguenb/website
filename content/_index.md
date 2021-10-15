@@ -1,9 +1,9 @@
 ---
 title: "Jurguen Bermúdez"
-subtitle: "Data scientist"
-description: "I am an industrial engineer; but I started my journey as a data scientist some time ago.
+subtitle: "Científico de datos"
+description: "Soy un ingeniero en producción industrial, pero inicié mi viaje como científico de datos hace algún tiempo. 
 
-This site will be hosting ideas, projects and other elements regarding my academic-professional interests, and my journey in life."
+Este sitio tendrá algunas ideas, proyectos, y otros elementos relacionados con mi intereses profesionales-académicos, y alguna que otra cosa."
 images:
   - img/main_page_image.jpeg
 image_left: true

@@ -1,6 +1,6 @@
 ---
 description: |
-  Para mí este es un espacio libre para escribir sobre cosas no extremadamente relacionadas con mi trabajo.
+  Para mí este es un espacio libre para escribir sobre cosas relacionadas con la ciencia de datos.
 author: "Jurguen Bermudez"
 show_post_thumbnail: false
 thumbnail_left: true # for list-sidebar only
@@ -28,7 +28,7 @@ cascade:
   # for single-sidebar layout
   sidebar:
     text_link_label: View recent posts
-    text_link_url: /blog/
+    text_link_url: /cosas_de_datos/
     show_sidebar_adunit: false # show ad container
 ---
 
