@@ -1,4 +1,3 @@
-
 .Rproj.user
 .Rhistory
 .RData
@@ -7,3 +6,4 @@
 Thumbs.db
 /public/
 /resources/
+.httr-oauth
